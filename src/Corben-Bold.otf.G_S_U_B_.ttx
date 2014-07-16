@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB ERROR="decompilation error">
+    <!-- An error occurred during the decompilation of this table -->
+    <!-- Traceback (most recent call last):
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/__init__.py", line 372, in __getitem__
+             table.decompile(data, self)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 38, in decompile
+             self.table.decompile(reader, font)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 579, in decompile
+             table[conv.name] = conv.read(reader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otConverters.py", line 172, in read
+             table.decompile(subReader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 576, in decompile
+             l.append(conv.read(reader, font, tableStack))
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otConverters.py", line 172, in read
+             table.decompile(subReader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 576, in decompile
+             l.append(conv.read(reader, font, tableStack))
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otConverters.py", line 172, in read
+             table.decompile(subReader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 579, in decompile
+             table[conv.name] = conv.read(reader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otConverters.py", line 172, in read
+             table.decompile(subReader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 581, in decompile
+             self.postRead(table, font)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otTables.py", line 42, in postRead
+             startID = font.getGlyphID(start)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/__init__.py", line 547, in getGlyphID
+             raise KeyError, glyphName
+         KeyError: 'glyph65535'
+          -->
+    <hexdata>
+      00010000 000a0024 00560001 6c61746e
+      00080004 00000000 ffff0004 00000001
+      00020003 00046161 6c74001a 6c696761
+      00206f6e 756d0026 736d6370 002c0000
+      00010000 00000001 00030000 00010002
+      00000001 00010004 000a0012 001a0022
+      00010000 0001013e 00010000 00010018
+      00010000 000100ac 00040000 000100be
+      000201ce 004bffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff 0002019c
+      000affff ffffffff ffffffff ffffffff
+      ffffffff ffff0001 018c0004 000e0018
+      0032005e 00010004 01010002 004c0003
+      0008000e 001400f6 00020047 00f70002
+      004a0105 00020056 0005000c 0014001a
+      00200026 01000003 0055004a 01060002
+      00430103 00020047 01020002 004c0104
+      00020051 00010004 00fe0002 00470002
+      01300055 ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffffffff
+      ffffffff ffffffff ffffffff ffff0002
+      00110042 005b0000 00a000b6 001a00b8
+      00bf0031 00c100c2 003900c4 00c4003b
+      00c600c7 003c00c9 00ca003e 00cd00cd
+      004000cf 00cf0041 00d100d1 004200d4
+      00d40043 00d600d6 004400d8 00d80045
+      00da00da 004600f6 00f60047 00f900fa
+      0048ffff ffff004a 00020001 0011001a
+      00000001 00040044 00470054 00550002
+      00120011 001a0000 0042005b 000a00a0
+      00b60024 00b800bf 003b00c1 00c20043
+      00c400c4 004500c6 00c70046 00c900ca
+      004800cd 00cd004a 00cf00cf 004b00d1
+      00d1004c 00d400d4 004d00d6 00d6004e
+      00d800d8 004f00da 00da0050 00f600f6
+      005100f9 00fa0052 ffffffff 0054
+    </hexdata>
+  </GSUB>
+
+</ttFont>

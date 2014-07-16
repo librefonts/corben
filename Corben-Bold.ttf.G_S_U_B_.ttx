@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=4 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=4 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=4 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="a.sc"/>
+          <Substitution in="aacute" out="aacute.sc"/>
+          <Substitution in="abreve" out="abreve.sc"/>
+          <Substitution in="acircumflex" out="acircumflex.sc"/>
+          <Substitution in="adieresis" out="adieresis.sc"/>
+          <Substitution in="ae" out="ae.sc"/>
+          <Substitution in="agrave" out="agrave.sc"/>
+          <Substitution in="amacron" out="amacron.sc"/>
+          <Substitution in="aogonek" out="aogonek.sc"/>
+          <Substitution in="aring" out="aring.sc"/>
+          <Substitution in="atilde" out="atilde.sc"/>
+          <Substitution in="b" out="b.sc"/>
+          <Substitution in="c" out="c.sc"/>
+          <Substitution in="cacute" out="cacute.sc"/>
+          <Substitution in="ccaron" out="ccaron.sc"/>
+          <Substitution in="ccedilla" out="ccedilla.sc"/>
+          <Substitution in="ccircumflex" out="ccircumflex.sc"/>
+          <Substitution in="cdotaccent" out="cdotaccent.sc"/>
+          <Substitution in="d" out="d.sc"/>
+          <Substitution in="dcaron" out="dcaron.sc"/>
+          <Substitution in="dcroat#1" out="dcroat.sc"/>
+          <Substitution in="dotlessi" out="dotlessi.sc"/>
+          <Substitution in="e" out="e.sc"/>
+          <Substitution in="eacute" out="eacute.sc"/>
+          <Substitution in="ebreve" out="ebreve.sc"/>
+          <Substitution in="ecaron" out="ecaron.sc"/>
+          <Substitution in="ecircumflex" out="ecircumflex.sc"/>
+          <Substitution in="edieresis" out="edieresis.sc"/>
+          <Substitution in="edotaccent" out="edotaccent.sc"/>
+          <Substitution in="egrave" out="egrave.sc"/>
+          <Substitution in="eight" out="eight.old"/>
+          <Substitution in="emacron" out="emacron.sc"/>
+          <Substitution in="eng" out="eng.sc"/>
+          <Substitution in="eogonek" out="eogonek.sc"/>
+          <Substitution in="eth" out="eth.sc"/>
+          <Substitution in="f" out="f.sc"/>
+          <Substitution in="f_i" out="f_i.sc"/>
+          <Substitution in="f_l" out="f_l.sc"/>
+          <Substitution in="five" out="five.old"/>
+          <Substitution in="four" out="four.old"/>
+          <Substitution in="g" out="g.sc"/>
+          <Substitution in="gbreve" out="gbreve.sc"/>
+          <Substitution in="gcaron" out="gcaron.sc"/>
+          <Substitution in="gcircumflex" out="gcircumflex.sc"/>
+          <Substitution in="gcommaaccent" out="gcommaaccent.sc"/>
+          <Substitution in="gdotaccent" out="gdotaccent.sc"/>
+          <Substitution in="h" out="h.sc"/>
+          <Substitution in="hbar" out="hbar.sc"/>
+          <Substitution in="hcircumflex" out="hcircumflex.sc"/>
+          <Substitution in="i" out="i.sc"/>
+          <Substitution in="iacute" out="iacute.sc"/>
+          <Substitution in="ibreve" out="ibreve.sc"/>
+          <Substitution in="icircumflex" out="icircumflex.sc"/>
+          <Substitution in="idieresis" out="idieresis.sc"/>
+          <Substitution in="igrave" out="igrave.sc"/>
+          <Substitution in="imacron" out="imacron.sc"/>
+          <Substitution in="iogonek" out="iogonek.sc"/>
+          <Substitution in="itilde" out="itilde.sc"/>
+          <Substitution in="j" out="j.sc"/>
+          <Substitution in="jcircumflex" out="jcircumflex.sc"/>
+          <Substitution in="k" out="k.sc"/>
+          <Substitution in="kcommaaccent" out="kcommaaccent.sc"/>
+          <Substitution in="l" out="l.sc"/>
+          <Substitution in="lacute" out="lacute.sc"/>
+          <Substitution in="lcaron" out="lcaron.sc"/>
+          <Substitution in="lcommaaccent" out="lcommaaccent.sc"/>
+          <Substitution in="lslash" out="lslash.sc"/>
+          <Substitution in="m" out="m.sc"/>
+          <Substitution in="n" out="n.sc"/>
+          <Substitution in="nacute" out="nacute.sc"/>
+          <Substitution in="ncaron" out="ncaron.sc"/>
+          <Substitution in="ncommaaccent" out="ncommaaccent.sc"/>
+          <Substitution in="nine" out="nine.old"/>
+          <Substitution in="ntilde" out="ntilde.sc"/>
+          <Substitution in="o" out="o.sc"/>
+          <Substitution in="oacute" out="oacute.sc"/>
+          <Substitution in="obreve" out="obreve.sc"/>
+          <Substitution in="ocircumflex" out="ocircumflex.sc"/>
+          <Substitution in="odieresis" out="odieresis.sc"/>
+          <Substitution in="oe" out="oe.sc"/>
+          <Substitution in="ograve" out="ograve.sc"/>
+          <Substitution in="ohungarumlaut" out="ohungarumlaut.sc"/>
+          <Substitution in="omacron" out="omacron.sc"/>
+          <Substitution in="one" out="one.old"/>
+          <Substitution in="oslash" out="oslash.sc"/>
+          <Substitution in="otilde" out="otilde.sc"/>
+          <Substitution in="p" out="p.sc"/>
+          <Substitution in="q" out="q.sc"/>
+          <Substitution in="r" out="r.sc"/>
+          <Substitution in="racute" out="racute.sc"/>
+          <Substitution in="rcaron" out="rcaron.sc"/>
+          <Substitution in="rcommaaccent" out="rcommaaccent.sc"/>
+          <Substitution in="s" out="s.sc"/>
+          <Substitution in="sacute" out="sacute.sc"/>
+          <Substitution in="scaron" out="scaron.sc"/>
+          <Substitution in="scedilla" out="scedilla.sc"/>
+          <Substitution in="scircumflex" out="scircumflex.sc"/>
+          <Substitution in="scommaaccent" out="scommaaccent.sc"/>
+          <Substitution in="seven" out="seven.old"/>
+          <Substitution in="six" out="six.old"/>
+          <Substitution in="t" out="t.sc"/>
+          <Substitution in="t_t" out="t_t.sc"/>
+          <Substitution in="tbar" out="tbar.sc"/>
+          <Substitution in="tcaron" out="tcaron.sc"/>
+          <Substitution in="tcommaaccent" out="tcommaaccent.sc"/>
+          <Substitution in="thorn" out="thorn.sc"/>
+          <Substitution in="three" out="three.old"/>
+          <Substitution in="two" out="two.old"/>
+          <Substitution in="u" out="u.sc"/>
+          <Substitution in="uacute" out="uacute.sc"/>
+          <Substitution in="ubreve" out="ubreve.sc"/>
+          <Substitution in="ucircumflex" out="ucircumflex.sc"/>
+          <Substitution in="udieresis" out="udieresis.sc"/>
+          <Substitution in="ugrave" out="ugrave.sc"/>
+          <Substitution in="uhungarumlaut" out="uhungarumlaut.sc"/>
+          <Substitution in="umacron" out="umacron.sc"/>
+          <Substitution in="uni01EB" out="uni01EB.sc"/>
+          <Substitution in="uni01F5" out="uni01F5.sc"/>
+          <Substitution in="uni021B" out="uni021B.sc"/>
+          <Substitution in="uni1E03" out="uni1E03.sc"/>
+          <Substitution in="uni1E0B" out="uni1E0B.sc"/>
+          <Substitution in="uni1E1F" out="uni1E1F.sc"/>
+          <Substitution in="uni1E41" out="uni1E41.sc"/>
+          <Substitution in="uni1E45" out="uni1E45.sc"/>
+          <Substitution in="uni1E61" out="uni1E61.sc"/>
+          <Substitution in="uni1E62" out="uni1E62.sc"/>
+          <Substitution in="uni1E63" out="uni1E63.sc"/>
+          <Substitution in="uni1E6A" out="uni1E6A.sc"/>
+          <Substitution in="uni1E6B" out="uni1E6B.sc"/>
+          <Substitution in="uni1E8F" out="uni1E8F.sc"/>
+          <Substitution in="uni1E91" out="uni1E91.sc"/>
+          <Substitution in="uniFB00" out="f_f.sc"/>
+          <Substitution in="uniFB03" out="f_f_i.sc"/>
+          <Substitution in="uniFB04" out="f_f_l.sc"/>
+          <Substitution in="uogonek" out="uogonek.sc"/>
+          <Substitution in="uring" out="uring.sc"/>
+          <Substitution in="utilde" out="utilde.sc"/>
+          <Substitution in="v" out="v.sc"/>
+          <Substitution in="w" out="w.sc"/>
+          <Substitution in="wacute" out="wacute.sc"/>
+          <Substitution in="wcircumflex" out="wcircumflex.sc"/>
+          <Substitution in="wdieresis" out="wdieresis.sc"/>
+          <Substitution in="wgrave" out="wgrave.sc"/>
+          <Substitution in="x" out="x.sc"/>
+          <Substitution in="y" out="y.sc"/>
+          <Substitution in="yacute" out="yacute.sc"/>
+          <Substitution in="ycircumflex" out="ycircumflex.sc"/>
+          <Substitution in="ydieresis" out="ydieresis.sc"/>
+          <Substitution in="ygrave" out="ygrave.sc"/>
+          <Substitution in="z" out="z.sc"/>
+          <Substitution in="zacute" out="zacute.sc"/>
+          <Substitution in="zcaron" out="zcaron.sc"/>
+          <Substitution in="zdotaccent" out="zdotaccent.sc"/>
+          <Substitution in="zero" out="zero.old"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="a.sc"/>
+          <Substitution in="aacute" out="aacute.sc"/>
+          <Substitution in="abreve" out="abreve.sc"/>
+          <Substitution in="acircumflex" out="acircumflex.sc"/>
+          <Substitution in="adieresis" out="adieresis.sc"/>
+          <Substitution in="ae" out="ae.sc"/>
+          <Substitution in="agrave" out="agrave.sc"/>
+          <Substitution in="amacron" out="amacron.sc"/>
+          <Substitution in="aogonek" out="aogonek.sc"/>
+          <Substitution in="aring" out="aring.sc"/>
+          <Substitution in="atilde" out="atilde.sc"/>
+          <Substitution in="b" out="b.sc"/>
+          <Substitution in="c" out="c.sc"/>
+          <Substitution in="cacute" out="cacute.sc"/>
+          <Substitution in="ccaron" out="ccaron.sc"/>
+          <Substitution in="ccedilla" out="ccedilla.sc"/>
+          <Substitution in="ccircumflex" out="ccircumflex.sc"/>
+          <Substitution in="cdotaccent" out="cdotaccent.sc"/>
+          <Substitution in="d" out="d.sc"/>
+          <Substitution in="dcaron" out="dcaron.sc"/>
+          <Substitution in="dcroat#1" out="dcroat.sc"/>
+          <Substitution in="dotlessi" out="dotlessi.sc"/>
+          <Substitution in="e" out="e.sc"/>
+          <Substitution in="eacute" out="eacute.sc"/>
+          <Substitution in="ebreve" out="ebreve.sc"/>
+          <Substitution in="ecaron" out="ecaron.sc"/>
+          <Substitution in="ecircumflex" out="ecircumflex.sc"/>
+          <Substitution in="edieresis" out="edieresis.sc"/>
+          <Substitution in="edotaccent" out="edotaccent.sc"/>
+          <Substitution in="egrave" out="egrave.sc"/>
+          <Substitution in="emacron" out="emacron.sc"/>
+          <Substitution in="eng" out="eng.sc"/>
+          <Substitution in="eogonek" out="eogonek.sc"/>
+          <Substitution in="eth" out="eth.sc"/>
+          <Substitution in="f" out="f.sc"/>
+          <Substitution in="f_i" out="f_i.sc"/>
+          <Substitution in="f_l" out="f_l.sc"/>
+          <Substitution in="g" out="g.sc"/>
+          <Substitution in="gbreve" out="gbreve.sc"/>
+          <Substitution in="gcaron" out="gcaron.sc"/>
+          <Substitution in="gcircumflex" out="gcircumflex.sc"/>
+          <Substitution in="gcommaaccent" out="gcommaaccent.sc"/>
+          <Substitution in="gdotaccent" out="gdotaccent.sc"/>
+          <Substitution in="h" out="h.sc"/>
+          <Substitution in="hbar" out="hbar.sc"/>
+          <Substitution in="hcircumflex" out="hcircumflex.sc"/>
+          <Substitution in="i" out="i.sc"/>
+          <Substitution in="iacute" out="iacute.sc"/>
+          <Substitution in="ibreve" out="ibreve.sc"/>
+          <Substitution in="icircumflex" out="icircumflex.sc"/>
+          <Substitution in="idieresis" out="idieresis.sc"/>
+          <Substitution in="igrave" out="igrave.sc"/>
+          <Substitution in="imacron" out="imacron.sc"/>
+          <Substitution in="iogonek" out="iogonek.sc"/>
+          <Substitution in="itilde" out="itilde.sc"/>
+          <Substitution in="j" out="j.sc"/>
+          <Substitution in="jcircumflex" out="jcircumflex.sc"/>
+          <Substitution in="k" out="k.sc"/>
+          <Substitution in="kcommaaccent" out="kcommaaccent.sc"/>
+          <Substitution in="l" out="l.sc"/>
+          <Substitution in="lacute" out="lacute.sc"/>
+          <Substitution in="lcaron" out="lcaron.sc"/>
+          <Substitution in="lcommaaccent" out="lcommaaccent.sc"/>
+          <Substitution in="lslash" out="lslash.sc"/>
+          <Substitution in="m" out="m.sc"/>
+          <Substitution in="n" out="n.sc"/>
+          <Substitution in="nacute" out="nacute.sc"/>
+          <Substitution in="ncaron" out="ncaron.sc"/>
+          <Substitution in="ncommaaccent" out="ncommaaccent.sc"/>
+          <Substitution in="ntilde" out="ntilde.sc"/>
+          <Substitution in="o" out="o.sc"/>
+          <Substitution in="oacute" out="oacute.sc"/>
+          <Substitution in="obreve" out="obreve.sc"/>
+          <Substitution in="ocircumflex" out="ocircumflex.sc"/>
+          <Substitution in="odieresis" out="odieresis.sc"/>
+          <Substitution in="oe" out="oe.sc"/>
+          <Substitution in="ograve" out="ograve.sc"/>
+          <Substitution in="ohungarumlaut" out="ohungarumlaut.sc"/>
+          <Substitution in="omacron" out="omacron.sc"/>
+          <Substitution in="oslash" out="oslash.sc"/>
+          <Substitution in="otilde" out="otilde.sc"/>
+          <Substitution in="p" out="p.sc"/>
+          <Substitution in="q" out="q.sc"/>
+          <Substitution in="r" out="r.sc"/>
+          <Substitution in="racute" out="racute.sc"/>
+          <Substitution in="rcaron" out="rcaron.sc"/>
+          <Substitution in="rcommaaccent" out="rcommaaccent.sc"/>
+          <Substitution in="s" out="s.sc"/>
+          <Substitution in="sacute" out="sacute.sc"/>
+          <Substitution in="scaron" out="scaron.sc"/>
+          <Substitution in="scedilla" out="scedilla.sc"/>
+          <Substitution in="scircumflex" out="scircumflex.sc"/>
+          <Substitution in="scommaaccent" out="scommaaccent.sc"/>
+          <Substitution in="t" out="t.sc"/>
+          <Substitution in="t_t" out="t_t.sc"/>
+          <Substitution in="tbar" out="tbar.sc"/>
+          <Substitution in="tcaron" out="tcaron.sc"/>
+          <Substitution in="tcommaaccent" out="tcommaaccent.sc"/>
+          <Substitution in="thorn" out="thorn.sc"/>
+          <Substitution in="u" out="u.sc"/>
+          <Substitution in="uacute" out="uacute.sc"/>
+          <Substitution in="ubreve" out="ubreve.sc"/>
+          <Substitution in="ucircumflex" out="ucircumflex.sc"/>
+          <Substitution in="udieresis" out="udieresis.sc"/>
+          <Substitution in="ugrave" out="ugrave.sc"/>
+          <Substitution in="uhungarumlaut" out="uhungarumlaut.sc"/>
+          <Substitution in="umacron" out="umacron.sc"/>
+          <Substitution in="uni01EB" out="uni01EB.sc"/>
+          <Substitution in="uni01F5" out="uni01F5.sc"/>
+          <Substitution in="uni021B" out="uni021B.sc"/>
+          <Substitution in="uni1E03" out="uni1E03.sc"/>
+          <Substitution in="uni1E0B" out="uni1E0B.sc"/>
+          <Substitution in="uni1E1F" out="uni1E1F.sc"/>
+          <Substitution in="uni1E41" out="uni1E41.sc"/>
+          <Substitution in="uni1E45" out="uni1E45.sc"/>
+          <Substitution in="uni1E61" out="uni1E61.sc"/>
+          <Substitution in="uni1E62" out="uni1E62.sc"/>
+          <Substitution in="uni1E63" out="uni1E63.sc"/>
+          <Substitution in="uni1E6A" out="uni1E6A.sc"/>
+          <Substitution in="uni1E6B" out="uni1E6B.sc"/>
+          <Substitution in="uni1E8F" out="uni1E8F.sc"/>
+          <Substitution in="uni1E91" out="uni1E91.sc"/>
+          <Substitution in="uniFB00" out="f_f.sc"/>
+          <Substitution in="uniFB03" out="f_f_i.sc"/>
+          <Substitution in="uniFB04" out="f_f_l.sc"/>
+          <Substitution in="uogonek" out="uogonek.sc"/>
+          <Substitution in="uring" out="uring.sc"/>
+          <Substitution in="utilde" out="utilde.sc"/>
+          <Substitution in="v" out="v.sc"/>
+          <Substitution in="w" out="w.sc"/>
+          <Substitution in="wacute" out="wacute.sc"/>
+          <Substitution in="wcircumflex" out="wcircumflex.sc"/>
+          <Substitution in="wdieresis" out="wdieresis.sc"/>
+          <Substitution in="wgrave" out="wgrave.sc"/>
+          <Substitution in="x" out="x.sc"/>
+          <Substitution in="y" out="y.sc"/>
+          <Substitution in="yacute" out="yacute.sc"/>
+          <Substitution in="ycircumflex" out="ycircumflex.sc"/>
+          <Substitution in="ydieresis" out="ydieresis.sc"/>
+          <Substitution in="ygrave" out="ygrave.sc"/>
+          <Substitution in="z" out="z.sc"/>
+          <Substitution in="zacute" out="zacute.sc"/>
+          <Substitution in="zcaron" out="zcaron.sc"/>
+          <Substitution in="zdotaccent" out="zdotaccent.sc"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="eight" out="eight.old"/>
+          <Substitution in="five" out="five.old"/>
+          <Substitution in="four" out="four.old"/>
+          <Substitution in="nine" out="nine.old"/>
+          <Substitution in="one" out="one.old"/>
+          <Substitution in="seven" out="seven.old"/>
+          <Substitution in="six" out="six.old"/>
+          <Substitution in="three" out="three.old"/>
+          <Substitution in="two" out="two.old"/>
+          <Substitution in="zero" out="zero.old"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="c">
+            <Ligature components="k" glyph="c_k"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="u" glyph="f_u"/>
+            <Ligature components="i" glyph="uniFB01"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="t,i" glyph="s_t_i"/>
+            <Ligature components="p" glyph="s_p"/>
+            <Ligature components="f" glyph="s_f"/>
+            <Ligature components="k" glyph="s_k"/>
+            <Ligature components="b" glyph="s_b"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="f" glyph="t_f"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
