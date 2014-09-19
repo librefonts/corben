@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [Corben-Regular.ttf.ttx, Corben-Bold.ttf.ttx, src/Corben-Regular.otf.ttx,
+  src/Corben-Bold.otf.ttx, src/Corben-Regular.sfd, src/Corben-Regular-TTF.sfd, src/Corben-Bold.sfd,
+  src/Corben-Bold-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
